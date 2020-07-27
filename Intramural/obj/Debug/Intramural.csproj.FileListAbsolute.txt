@@ -1,0 +1,8 @@
+C:\Users\Kaleb\source\repos\EhlertProgram8\Intramural\bin\Debug\Intramural.dll
+C:\Users\Kaleb\source\repos\EhlertProgram8\Intramural\bin\Debug\Intramural.pdb
+C:\Users\Kaleb\source\repos\EhlertProgram8\Intramural\obj\Debug\Intramural.csprojResolveAssemblyReference.cache
+C:\Users\Kaleb\source\repos\EhlertProgram8\Intramural\obj\Debug\Intramural.csproj.CoreCompileInputs.cache
+C:\Users\Kaleb\source\repos\EhlertProgram8\Intramural\obj\Debug\Intramural.dll
+C:\Users\Kaleb\source\repos\EhlertProgram8\Intramural\obj\Debug\Intramural.pdb
+C:\Users\Kaleb\source\repos\EhlertProgram8\Intramural\bin\Debug\Organization.dll
+C:\Users\Kaleb\source\repos\EhlertProgram8\Intramural\bin\Debug\Organization.pdb

@@ -1,0 +1,10 @@
+C:\Users\Kaleb\source\repos\EhlertProgram8\Club\bin\Debug\Club.dll
+C:\Users\Kaleb\source\repos\EhlertProgram8\Club\bin\Debug\Club.pdb
+C:\Users\Kaleb\source\repos\EhlertProgram8\Club\bin\Debug\IFunding.dll
+C:\Users\Kaleb\source\repos\EhlertProgram8\Club\bin\Debug\Organization.dll
+C:\Users\Kaleb\source\repos\EhlertProgram8\Club\bin\Debug\IFunding.pdb
+C:\Users\Kaleb\source\repos\EhlertProgram8\Club\bin\Debug\Organization.pdb
+C:\Users\Kaleb\source\repos\EhlertProgram8\Club\obj\Debug\Club.csprojResolveAssemblyReference.cache
+C:\Users\Kaleb\source\repos\EhlertProgram8\Club\obj\Debug\Club.csproj.CoreCompileInputs.cache
+C:\Users\Kaleb\source\repos\EhlertProgram8\Club\obj\Debug\Club.dll
+C:\Users\Kaleb\source\repos\EhlertProgram8\Club\obj\Debug\Club.pdb

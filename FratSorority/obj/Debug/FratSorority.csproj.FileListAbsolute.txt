@@ -1,0 +1,10 @@
+C:\Users\Kaleb\source\repos\EhlertProgram8\FratSorority\bin\Debug\FratSorority.dll
+C:\Users\Kaleb\source\repos\EhlertProgram8\FratSorority\bin\Debug\FratSorority.pdb
+C:\Users\Kaleb\source\repos\EhlertProgram8\FratSorority\bin\Debug\IFunding.dll
+C:\Users\Kaleb\source\repos\EhlertProgram8\FratSorority\bin\Debug\Organization.dll
+C:\Users\Kaleb\source\repos\EhlertProgram8\FratSorority\bin\Debug\IFunding.pdb
+C:\Users\Kaleb\source\repos\EhlertProgram8\FratSorority\bin\Debug\Organization.pdb
+C:\Users\Kaleb\source\repos\EhlertProgram8\FratSorority\obj\Debug\FratSorority.csprojResolveAssemblyReference.cache
+C:\Users\Kaleb\source\repos\EhlertProgram8\FratSorority\obj\Debug\FratSorority.csproj.CoreCompileInputs.cache
+C:\Users\Kaleb\source\repos\EhlertProgram8\FratSorority\obj\Debug\FratSorority.dll
+C:\Users\Kaleb\source\repos\EhlertProgram8\FratSorority\obj\Debug\FratSorority.pdb
